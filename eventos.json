@@ -1,3 +1,4 @@
+
 {
   "events": [
     {
@@ -10,20 +11,30 @@
       "species": [
         {
           "id": "MINIOR",
-          "forms": [
-            7,
-            8,
-            9,
-            10,
-            11,
-            12,
-            13
-          ]
+          "forms": [7, 8, 9, 10, 11, 12, 13]
         }
       ],
       "shiny_increase_percent": 1.0,
       "shiny_max_percent": 25,
       "streak_max": 25
+    },
+    {
+      "id": "festival_fennekin_2026",
+      "name": "Festival de las Llamas",
+      "enabled": true,
+      "start": "2026-10-10",
+      "end": "2026-10-15",
+      "shiny_denominator": 100,
+      "species": [
+        {
+          "id": "FENNEKIN",
+          "forms": [0]
+        }
+      ],
+      "shiny_increase_percent": 0.5,
+      "shiny_max_percent": 10,
+      "streak_max": 25
     }
   ]
 }
+  
