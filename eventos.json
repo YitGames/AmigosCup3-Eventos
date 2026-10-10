@@ -6,7 +6,7 @@
       "name": "Festival de las Estrellas Fugaces",
       "enabled": true,
       "start": "2026-09-10",
-      "end": "2026-09-31",
+      "end": "2026-09-30",
       "shiny_denominator": 100,
       "species": [
         {
